@@ -1,3 +1,5 @@
 red is the first colour of the rainbow.
 
 i have made changes in this just for fun.
+
+this commit is for red.
