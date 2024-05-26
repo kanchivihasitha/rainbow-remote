@@ -7,3 +7,5 @@ this commit is for red.
 -> orange is the second color of the rainbow.
 
 ->yellow is thr third colour of the rainbow.
+
+-> Green is the fourth color of the rainbow
